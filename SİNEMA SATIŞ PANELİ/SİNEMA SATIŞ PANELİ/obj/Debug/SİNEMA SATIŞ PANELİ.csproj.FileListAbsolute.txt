@@ -1,0 +1,19 @@
+c:\users\hp\documents\visual studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\bin\Debug\SİNEMA SATIŞ PANELİ.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\bin\Debug\SİNEMA SATIŞ PANELİ.exe
+c:\users\hp\documents\visual studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\bin\Debug\SİNEMA SATIŞ PANELİ.pdb
+c:\users\hp\documents\visual studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA SATIŞ PANELİ.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA_SATIŞ_PANELİ.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA_SATIŞ_PANELİ.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA SATIŞ PANELİ.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA SATIŞ PANELİ.exe
+c:\users\hp\documents\visual studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA SATIŞ PANELİ.pdb
+C:\Users\Hp\OneDrive\Belgeler\Visual Studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\bin\Debug\SİNEMA SATIŞ PANELİ.exe.config
+C:\Users\Hp\OneDrive\Belgeler\Visual Studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\bin\Debug\SİNEMA SATIŞ PANELİ.exe
+C:\Users\Hp\OneDrive\Belgeler\Visual Studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\bin\Debug\SİNEMA SATIŞ PANELİ.pdb
+C:\Users\Hp\OneDrive\Belgeler\Visual Studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA SATIŞ PANELİ.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Belgeler\Visual Studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA_SATIŞ_PANELİ.Form1.resources
+C:\Users\Hp\OneDrive\Belgeler\Visual Studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA_SATIŞ_PANELİ.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Belgeler\Visual Studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA SATIŞ PANELİ.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Belgeler\Visual Studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA SATIŞ PANELİ.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Belgeler\Visual Studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA SATIŞ PANELİ.exe
+C:\Users\Hp\OneDrive\Belgeler\Visual Studio 2015\Projects\SİNEMA SATIŞ PANELİ\SİNEMA SATIŞ PANELİ\obj\Debug\SİNEMA SATIŞ PANELİ.pdb
